@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "max_depth": 10,
+    "min_samples_leaf": 4,
+    "n_estimators": 200
+  },
+  "cv_f1_score": 0.7896514824449734
+}
